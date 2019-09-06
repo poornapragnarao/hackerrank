@@ -1,2 +1,2 @@
 # hackerrank
-hackerrank challenges
+Hackerrank python challenges.
